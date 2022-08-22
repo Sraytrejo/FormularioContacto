@@ -1,4 +1,0 @@
-crear Formulario
-agregar estilos al formulario
-validar el formulario
-Subir al repositorio de GitHub.com
